@@ -1,0 +1,10 @@
+[
+	{
+		"name": "SASS",
+		"path": "*.{css,scss,sass}",
+		"handler": "rosid-handler-sass",
+		"opts": {
+			"in": ".scss"
+		}
+	}
+]
